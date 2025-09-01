@@ -3,8 +3,7 @@ package main
 import (
 	utils "hospital-auto-register/utils"
 
-	_ "github.com/robertkrimen/otto/underscore"
-)
+	_ "git
 
 func init() {
 	// utils.InitINI()
