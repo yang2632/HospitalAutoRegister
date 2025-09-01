@@ -13,3 +13,4 @@ func init() {
 func main() {
 	utils.InitGin()
 }
+print('yuyang shazi')
